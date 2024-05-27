@@ -1,3 +1,6 @@
+![obraz](https://github.com/Alaniczek/infinite-dungeon-travel----PcConsoleEdition/assets/146478174/826010df-05e5-487a-b2a0-ab29413078a2)
+
+
 IDT to konsolowa gra utworzona w 100% w C++ która jest formą projektu.
 Tworzenie gry to czas miesiąca (łącznie około 8godzin) ponieważ nie był priorytetem.
 
